@@ -1,4 +1,4 @@
-#jQuerySf 2015: Geneartive Art Submissions
+#jQuerySf 2015: Generative Art Submissions
 
  We are quite aware that the web communtiy is made of some of the most creative individuals on the planet. As part of the conference we will be curating a gallery of generative art that will be on display during the entire conference.
 
